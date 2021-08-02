@@ -4,8 +4,8 @@
 A Name Entity Recognition model using Spacy that enables user to summarize a resume based on certain labels. I trained the model using dataset from Kaggle which consist of 220 manually labeled resume. The label itself are divided into 10 categories. The model managed to recognize several text according to trained labels from an unseen data. I use my own resume to test the models. 
 
 # Requirement.txt
-Python 3.7.11
-Spacy 2.1.4
+Python 3.7.11;
+Spacy 2.1.4;
 PyMuPDF 1.18.15
 
 # Dataset 
