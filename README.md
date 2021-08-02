@@ -9,7 +9,7 @@ Spacy 2.1.4
 PyMuPDF 1.18.15
 
 # Dataset 
-https://www.kaggle.com/dataturks/resume-entities-for-ner
+https://www.kaggle.com/dataturks/resume-entities-for-ner \n
 Labels categories:
   -Name
   -College Name
