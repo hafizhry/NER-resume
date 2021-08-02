@@ -9,7 +9,8 @@ Spacy 2.1.4
 PyMuPDF 1.18.15
 
 # Dataset 
-[Dataset](https://www.kaggle.com/dataturks/resume-entities-for-ner) 
+[Kaggle Dataset](https://www.kaggle.com/dataturks/resume-entities-for-ner) 
+
 Labels categories:
   -Name
   -College Name
@@ -29,7 +30,7 @@ Labels categories:
 4. Wait for the models to finish the training
 5. You can test the model by uploading your resume on to the last cell of the colab
 
-# Video run through
+# Video runthrough
 https://youtu.be/562z-WFim5E
 
 
